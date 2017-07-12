@@ -1,13 +1,17 @@
-#JavaWebExamples
+# JavaWebExamples
 
-###JavaWeb
-_Apache Tomcat, Servlets;_
+### [AppMySQL](https://github.com/Skevary/JavaWebExamples/tree/master/AppMySQL)
 
-###TestApp(TestAppEJB,TestAppWeb)
-_Enterprise Application, Project, EJB, JSF, Servlet, WildFly 10.x;_
+* _Maven, Hibernate, MySQL"_
 
-###JavaEEWebGlassFish
-_WebApp, GlassFish 4.1.1, Intellij idea._
+### [JavaEEWebGlassFish](https://github.com/Skevary/JavaWebExamples/tree/master/JavaEEWebGlassFish)
 
-###AppMySQL
-_Maven, Hibernate, MySQL"_
+* _WebApp, GlassFish 4.1.1, Intellij idea._
+
+### [userinfo](https://github.com/Skevary/JavaWebExamples/tree/master/userinfo)
+
+* _Maven, Spring, MVC"_
+
+### [WebApp](https://github.com/Skevary/JavaWebExamples/tree/master/WebApp)
+
+* _Apache Tomcat, Servlets;_
